@@ -37,7 +37,7 @@ meta:
   - Webアプリケーションの開発及び保守運用
     - AWS
     - Ruby on Rails
-    - JQuery
+    - jQuery
     - CoffeeScript
 - [note](https://note.mu)
   - Webアプリケーションの開発及び保守運用
@@ -67,7 +67,7 @@ meta:
   - Webアプリケーションの開発及び保守運用
     - Java
     - Struts
-    - JQuery
+    - jQuery
     - Apache
   - Flashコンテンツの開発及び保守運用
     - Java
